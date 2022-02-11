@@ -1,2 +1,2 @@
-# skills_pandas
+# SKILLS PANDAS
 Repository for beginners in the pandas library
